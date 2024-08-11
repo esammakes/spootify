@@ -1,1 +1,1 @@
-# spootify
+# spootify app!
